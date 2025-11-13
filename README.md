@@ -1,3 +1,5 @@
+![](./assets/banner.png)
+
 # Branding
 
 This repository contains official branding assets for use with the **Rhythia** product line and this organization’s public presence.
