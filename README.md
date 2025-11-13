@@ -134,7 +134,7 @@ When in doubt, default to:
 
 > Use the **Logo Color** or **Logo Neutral** on clean backgrounds, with clear space, and without additional effects that obscure visibility.
 
-Please do not skew or round the corners, use assets as as.
+Please do not skew or round the corners, use assets as is.
 
 ![skew](./assets/skew.png)
 
