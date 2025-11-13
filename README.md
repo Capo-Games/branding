@@ -6,6 +6,10 @@ This repository contains official branding assets for use with the **Rhythia** p
 
 > **Note:** These materials are **not open source**. They are provided for limited, primarily non-commercial and internal use only. Please read the usage guidelines below before using any asset.
 
+The purpose of this document is to strive for a certain level of quality when representing the brand and the game.
+
+Only the presented images are subject to the given branding, any other variants, colors, or different images have nothing to do with our products!
+
 ---
 
 ## 1. Contents
@@ -124,10 +128,15 @@ When using these assets in an allowed context:
 - Do not stretch, deform, or recolor the logos in ways that conflict with the provided variants.
 - Maintain adequate clear space around the logos and icons so they remain legible and distinct.
 - Do not overlay busy patterns or text on top of the logo unless specifically designed to do so.
+- When creating a tool, or any other affiliated software for our products, please mark them as "X for Rhythia" not "Rhythia X" (for eg. "Editor for Rhythia", not "Rhythia Editor")
 
 When in doubt, default to:
 
 > Use the **Logo Color** or **Logo Neutral** on clean backgrounds, with clear space, and without additional effects that obscure visibility.
+
+Please do not skew or round the corners, use assets as as.
+
+![skew](./assets/skew.png)
 
 ---
 
